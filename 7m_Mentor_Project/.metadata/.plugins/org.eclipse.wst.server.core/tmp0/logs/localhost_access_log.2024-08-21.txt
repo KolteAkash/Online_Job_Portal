@@ -1,4 +1,0 @@
-127.0.0.1 - - [21/Aug/2024:23:26:50 +0530] "GET / HTTP/1.1" 404 752
-0:0:0:0:0:0:0:1 - - [21/Aug/2024:23:26:51 +0530] "GET /sm1/WEB-INF/views/feedback-form.jsp HTTP/1.1" 404 683
-0:0:0:0:0:0:0:1 - - [21/Aug/2024:23:35:10 +0530] "GET /sm1/WEB-INF/views/feedback-form.jsp HTTP/1.1" 404 683
-0:0:0:0:0:0:0:1 - - [21/Aug/2024:23:35:19 +0530] "GET /sm/WEB-INF/views/feedback-form.jsp HTTP/1.1" 404 777
